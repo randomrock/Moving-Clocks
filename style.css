@@ -153,6 +153,7 @@ p{
         font: 1em sans-serif;
         top: 17%;
         font-size: 0.8em;
+          width: min-content;
     }
     #left{
         left: 8%;
