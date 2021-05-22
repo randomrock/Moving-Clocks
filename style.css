@@ -170,7 +170,7 @@ p{
           width: min-content;
     }
     #left{
-        left: 12%;
+        left: 14%;
     }
     .dot{
         width: 15px;
@@ -184,7 +184,7 @@ p{
         top: 15%;
     }
     #left{
-        left: 12%
+        left: 14%
     }
     #right{
         left: 67%;
@@ -198,7 +198,7 @@ p{
         top: 13%;
     }
     #left{
-        left: 12%;
+        left: 14%;
 }
     #right{
         left: 70%;
