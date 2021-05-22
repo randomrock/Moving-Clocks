@@ -11,8 +11,8 @@ body{
     display: flex;
     position: relative;
     margin: 10vh auto;
-    height: 35vw; /*30*/
-    width: 35vw;  /*30*/
+    height: 30vw; /*30*/
+    width: 30vw;  /*30*/
     /* border: 2px solid black; */
     background-image: url(/Moving-Clocks/clock.png);
     /*background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt1RViog1vV_ldFl90OcF8wYvzJ32y5dUwen2ZBt0lJozfKzGgxpQojK_XkdEOQnFnTk0&usqp=CAU");*/
