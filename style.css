@@ -14,7 +14,7 @@ body{
     height: 25vw; /*30*/
     width: 25vw;  /*30*/
     /* border: 2px solid black; */
-    background-image: url(/Moving-Clock/clock.png);
+    background-image: url(/Moving-Clocks/clock.png);
     /*background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt1RViog1vV_ldFl90OcF8wYvzJ32y5dUwen2ZBt0lJozfKzGgxpQojK_XkdEOQnFnTk0&usqp=CAU");*/
     /* background-image: url("https://www.vhv.rs/dpng/d/441-4417880_clock-face-png-transparent-png-download-clipart-cartoon.png"); */
     background-size: cover;
