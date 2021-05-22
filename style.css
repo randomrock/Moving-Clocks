@@ -58,6 +58,9 @@ p{
     color: aquamarine;
     
 }
+a{
+    color: greenyellow;
+}
 @media(max-width:600px){
     p {
         font-size: 25px;
