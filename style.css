@@ -7,6 +7,20 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
 }
+@keyframes slide{
+    0%{
+        transform: translateX(-120vw); 
+    }
+    50%{
+        transform: translateX(0);
+    }
+    100%{
+        transform: translateX(120vw);
+    }
+}
+#creator{
+    animation: slide 10s ease-in-out infinite;
+}
 #clockContainer{
     display: flex;
     position: relative;
