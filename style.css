@@ -171,12 +171,16 @@ p{
     #right{
         left: 67%;
     }
+    .dot{
+        left: 46.2%;
+    }
+}
 @media(max-width: 400px){
     #left,#right{
         top: 13%;
     }
     #left{
-        left: 10%;
+        left: 6%;
 }
     #right{
         left: 70%;
