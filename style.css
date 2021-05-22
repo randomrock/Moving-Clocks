@@ -152,11 +152,11 @@ p{
         font-size: 0.8em;
     }
     #left{
-        left: 4%;
+        left: 8%;
     }
     .dot{
-        width: 13px;
-        height: 13px;
+        width: 15px;
+        height: 15px;
     }
 }
 @media(max-width: 540px){
@@ -166,7 +166,7 @@ p{
         top: 15%;
     }
     #left{
-        left: 22%
+        left: 8%
     }
     #right{
         left: 67%;
@@ -180,7 +180,7 @@ p{
         top: 13%;
     }
     #left{
-        left: 6%;
+        left: 8%;
 }
     #right{
         left: 70%;
