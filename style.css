@@ -175,7 +175,10 @@ p{
     #left,#right{
         top: 13%;
     }
+    #left{
+        left: 10%;
 }
-
-    
+    #right{
+        left: 70%;
+    }
 }
